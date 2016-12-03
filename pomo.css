@@ -1,0 +1,40 @@
+html{
+  height:100%;
+  background:#FE2020;
+}
+#mainBody{
+  background:#FE2020;
+
+}
+.title{
+  text-align:center;
+}
+.buttons{
+  text-align :center;
+}
+.output{
+  text-align:center;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+.output span{
+ 
+  
+  margin:0 7px 11px 0;
+  line-height:40px;
+  text-align:center;
+  font-size:500%;
+}
+.adjustBreak, .adjustSession {
+  text-align:center;
+}
+.adjustBreak span,.adjustSession span{  
+  
+  text-align:center;
+  line-height:40px;
+  font-size:200%
+}
+
+#decreaseSession,#increaseSession,#decreaseBreak,#increaseBreak{
+  background-color:red;
+}
